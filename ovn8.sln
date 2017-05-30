@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A2FF315-2CB4-4C8A-B37E-A3398B3F6963}"
+	ProjectSection(SolutionItems) = preProject
+		bishbosh.js = bishbosh.js
+		bishbosh1.html = bishbosh1.html
+		index.html = index.html
+		style.css = style.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
